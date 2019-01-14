@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="lct_weather"/>
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.lct.lctweather.db.Province"/>
+        <mapping class="com.lct.lctweather.db.City"/>
+        <mapping class="com.lct.lctweather.db.County"/>
+    </list>
+</litepal>
